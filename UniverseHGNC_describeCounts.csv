@@ -1,0 +1,23 @@
+,HGNC.ID,HGNCsymbol,Approved.name,OMIM.ID,UniProt.ID,Mendelian.noXY,PathogenicMut.ClinVar,Autosomal.Recessive,Autosomal.Dominant,HaploinsufficientLv3.ClinGen,Haploinsufficient.Tx61,Homo.LoF.tolerant,Essential.CRISPR,NonEssential.CRISPR,Kinase,DRG.Wood,Detected.all.4673,Detected.K.2623,Detected.C.3817,Detected.CK.1767
+count,18843,18843,18843,15116,18843,18843,18843,18843,18843,18843,18843,18843,18843,18843,18843,18843,18843,18843,18843,18843
+unique,18843,18843,18843,15116,18763,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+top ,HGNC:21746,EVA1C,transmembrane and coiled-coil domains 3,614637,Q5JQC4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Freq.,1,1,1,1,12,15442,15829,17686,18143,18550,18782,18518,18178,17945,18497,18675,14245,16280,15078,17113
+,,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+,,,,,,3401,3014,1157,700,293,61,325,665,898,346,168,4598,2563,3765,1730
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,Mendelian.noXY,PathogenicMut.ClinVar,Autosomal.Recessive,Autosomal.Dominant,HaploinsufficientLv3.ClinGen,Haploinsufficient.Tx61,Homo.LoF.tolerant,Essential.CRISPR,NonEssential.CRISPR,Kinase,DRG.Wood,Detected.all.4673,Detected.K.2623,Detected.C.3817,Detected.CK.1767,,,,,
+TotalGenes,18843,18843,18843,18843,18843,18843,18843,18843,18843,18843,18843,18843,18843,18843,18843,,,,,
+FALSE,15442,15829,17686,18143,18550,18782,18518,18178,17945,18497,18675,14245,16280,15078,17113,,,,,
+TRUE,3401,3014,1157,700,293,61,325,665,898,346,168,4598,2563,3765,1730,,,,,
+FALSE,82%,84%,94%,96%,98%,100%,98%,96%,95%,98%,99%,76%,86%,80%,91%,,,,,
+TRUE,18%,16%,6%,4%,2%,0%,2%,4%,5%,2%,1%,24%,14%,20%,9%,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,

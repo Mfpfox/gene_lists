@@ -1,0 +1,6 @@
+NOTES_genelevel_files
+
+# mendelian gene set: https://github.com/bogdanlab/gene_sets
+mendelian_genes.bed -- all Mendelian disorder genes in OMIM with the following criteria: (1) disorder is Mendelian and fully penetrant, therefore excluding susceptibility phenotypes and (2) molecular basis of the Mendelian disorder is known (i.e., phenotype mapping key = 3). Total of 3,466 genes.
+
+For drug target list: https://github.com/macarthur-lab/gene_lists
