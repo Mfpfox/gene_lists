@@ -1,0 +1,5 @@
+,HGNCsymbol,ENSGv92,HGNC.ID,Approved.name,OMIM.ID,UniProt.ID,Mendelian.noXY,PathogenicMut.ClinVar,Autosomal.Recessive,Autosomal.Dominant,HaploinsufficientLv3.ClinGen,Haploinsufficient.Tx61,Homo.LoF.tolerant,Essential.CRISPR,NonEssential.CRISPR,Kinase,DRG.Wood,GWAShit.ProximalGene,Olfactory.Receptor,GPCR.Targets,NaturalProduct.Targets,FDAapproved.DrugTargets,CpDC.RP,CpDK.RP,CpDM.RP,CpDY.RP,CpDC.LP,CpDK.LP,detectedProRP&LP,intrinsicR_CKY_proteins,CKMYoverlapRP,CKoverlapRP,CKYoverlapRP,CYSoverlapRP&LP,LYSoverlapRP&LP
+count,329,329,329,329,329,329,329,329,329,329,329,329,329,329,329,329,329,329,329,329,329,329,329,329,329,329,329,329,329,329,329,329,329,329,329
+unique,329,329,329,329,329,328,2,1,2,2,2,2,2,2,2,2,2,2,1,1,2,2,2,2,2,2,2,2,1,1,2,2,2,2,2
+top,G6PD,ENSG00000151552,HGNC:6388,LDL receptor related protein associated protein 1,612801,P69905,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,True,True,True,True,False,False,False,True,False
+freq,1,1,1,1,1,2,279,329,219,258,294,322,327,284,328,321,322,213,329,329,326,314,244,186,266,212,227,212,329,329,304,211,272,194,167

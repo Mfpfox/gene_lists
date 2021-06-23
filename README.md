@@ -71,7 +71,6 @@ We welcome pull requests for adding additional lists, provided they are licensed
 
 [Hart 2017]: http://www.g3journal.org/content/7/8/2719 "HART, Traver, et al. Evaluation and design of genome-wide CRISPR/SpCas9 knockout screens. G3: Genes, Genomes, Genetics, 2017, g3. 117.041277. doi: 10.1534/g3.117.041277. PMID: 28655737 PMCID: PMC5555476"
 
-
 [Welter 2014]: http://www.ncbi.nlm.nih.gov/pubmed/24316577 "Welter D, MacArthur J, Morales J, Burdett T, Hall P, Junkins H, Klemm A, Flicek P, Manolio T, Hindorff L, Parkinson H. The NHGRI GWAS Catalog, a curated resource of SNP-trait associations. Nucleic Acids Res. 2014 Jan;42(Database issue):D1001-6. doi: 10.1093/nar/gkt1229. Epub 2013 Dec 6. PubMed PMID: 24316577; PubMed Central PMCID: PMC3965119."
 
 [Georgi 2013]: http://www.ncbi.nlm.nih.gov/pubmed/23675308 "Georgi B, Voight BF, Bućan M. From mouse to human: evolutionary genomics analysis of human orthologs of essential genes. PLoS Genet. 2013 May;9(5):e1003484. doi: 10.1371/journal.pgen.1003484. Epub 2013 May 9. PubMed PMID: 23675308; PubMed Central PMCID: PMC3649967."
